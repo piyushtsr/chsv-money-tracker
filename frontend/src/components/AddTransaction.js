@@ -67,7 +67,7 @@ const AddTransaction = () => {
           Users:
           <select  className={styles.select} multiple= {true} onChange={handleUsersChange}>
             {users.map(user => (
-              <option className={styles.option} key={user._id} value={user._id}>{user}</option>
+              <option className={styles.option} key={user._id} value={user._id}>{user.name}</option>
             ))}
           </select>
         </label>

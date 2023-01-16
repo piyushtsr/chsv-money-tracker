@@ -6,7 +6,6 @@ for running the app-
 
     for Backend: cd .\backend -->npm i --> npm run dev
 
-
 the application is incomplete in many sense, some of them are :
 
 have to reload the applicaion after submit
@@ -18,3 +17,7 @@ many UI changes
 edit transaction button is yet to com
 
 HAD AN EMERGENCY SO COMPLETED THE APP THIS MUCH ONLY
+
+![1673893713771](image/README/1673893713771.png)
+
+![1673894187835](image/README/1673894187835.png)
