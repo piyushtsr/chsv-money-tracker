@@ -15,4 +15,6 @@ adduser form must be inside addtransaction but is outside
 
 many UI changes
 
-edit transaction button is yet to complete
+edit transaction button is yet to com
+
+HAD AN EMERGENCY SO COMPLETE THE APP THIS MUCH ONLY
